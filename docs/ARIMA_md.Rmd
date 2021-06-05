@@ -3,9 +3,9 @@ title: "ARIMA Process to Model COVID-19"
 author: "Bruno Deprez"
 date: "May 17, 2021"
 output:
-  html_document: null
-  pdf_document: default
-  word_document: default
+  html_document: 
+    toc : true
+    toc_float: true
 bibliography: Bibliography.bib
 ---
 
